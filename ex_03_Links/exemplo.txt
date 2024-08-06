@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Exemplos de Links</title>
+	</head>
+	<body>
+		<a href="www.google.com.br">google<a>
+	</body>
+</html>
