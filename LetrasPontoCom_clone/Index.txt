@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+	<!-- Renderiza caracteres especiais corretamente -->
+	<meta charset="UTF-8">
+
+	<!-- permite reconhecer quando aberto tela menor -->
+	<meta name="viewport" content="width=device-width,initial-scale=1,0">
+	<title>Private Landing</title>
+</head>
+<body>
+	<img style="width:1250px;"src="img/topo.png" alt="topo da pagina">
+	<p style="color:gray; font-size:12px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; página inicial >> hip hop/RAP >> don toliver >> Private Landing</p>
+
+	<center>
+	<img style="width:800px;"src="img/banner.png" alt="Banner de propaganda">
+	</center>
+
+	<img style="width:50px;"src="img/avatar.png" alt="foto do cantor">
+
+	<p style="color:orange; font-size:17px; line-height:-10px;">Private Landing</p>
+
+	<p style="color:green; font-size:17px; line-height:-10px;">
+
+	Don Toliver</p>
+
+	<p>
+	<img style="width:500px;" src="img/video.png" alt="video da musica" align="right">
+	</p>
+
+	<p style="font-size:15px; margin-left:50px;">I'm feelin' stuck (feelin' stuck)<br>
+	I'm off a bean (yeah), like, what the fuck? (what the fuck?)<br>
+	I'm in the tree (tree), she holler up (holler up)<br>
+	What you need? (what you need?) got it up (ooh-ooh)<br>
+	I'm feelin' stuck (feelin' stuck)<br>
+	I'm off a bean (yeah), like, what the fuck? (what the fuck?)<br>
+	I'm in the tree (tree), she holler up (holler up)<br>
+	What you need? (what you need?) got it up (ooh-ooh)<br>
+	</p>
+	<p style="font-size:15px; margin-left:50px;">I don't know why these hoes can't stand me<br>
+	I guess I'm too demanding<br>
+	Wanna hit the double coke, the candy (candy)<br>
+	I'm so high, no landing (landing)<br>
+	Keepin' that Glock, grip steady (steady)<br>
+	Rockin' this shit, confetti (confetti)<br>
+	They all let it go on the telly (telly)<br>
+	They all wanna rub my belly<br>
+	I got my dawgs out, I'm poppin' at the ritz (at the—)<br>
+	I got 'em comin' in, shit look like a blitz (look like a—)<br>
+	She wanna check me up, she wanna check my fit (check my—)<br>
+	I pull up, the maybach jumpin', shorty bеtter check my hits<br>
+	I don't know why thesе hoes can't stand me<br>
+	I guess I'm too demanding<br>
+	Private landing, I guess I keep my candy<br>
+	She a super soaker when the beaches sandy<br>
+	I got her in the o, call, better call me randy<br>
+	</p>
+	<p style="font-size:15px; margin-left:50px;">Diamonds and margiela, ap canary yellow<br>
+	Yeah, she deserve a patek, 'cause she one of the members (for sure)<br>
+	When it come, it's adorable, money not a problem (hmm)<br>
+	Turned me to a killer, I just smashed a model (yeah)<br>
+	Tiffany come blue, her pussy good and pink (pink)<br>
+	Chicago in the wintertime, I'm orderin' minks (the mink)<br>
+	Sellin' out arenas, I just murked the streets (the streets)<br>
+	Coppin' a brand new castle in the middle east (woo, yeah)<br>
+	My bitch sit indian style when we sit down and eat (woo)<br>
+	I could do this shit, one take, but my style ain't free (woo, pluto)<br>
+	I don't take hoes on no date, 'less they got pretty feet (I swear)<br>
+	Quarter million on her head, quarter million on her head (ah, yeah)<br>
+	She mop it down the best, I can't feel my leg (my leg, I swear)<br>
+	I done sniped off your ho' for a crumb of bread (ho)<br>
+	Got racks goin' out the roof, they bustin' through the ceilin' (racks)<br>
+	My new bitch, she the truth, show me a couple million (freebandz)<br>
+	</p>
+	<p style="font-size:15px; margin-left:50px;">All on your body, like I'm—<br>
+	I'm feelin' stuck (feelin' stuck)<br>
+	I'm off a bean (yeah), like, what the fuck? (what the fuck?)<br>
+	I'm in the tree (tree), she holler up (holler up)<br>
+	What you need? (what you need?) got it up (ooh-ooh, yeah)<br>
+	</p>
+	<p style="font-size:15px; margin-left:50px;">Mm, keep goin', mm (oh-yeah)<br>
+	Keep goin', keep goin' (mm-hmm)<br>
+	Keep goin', keep goin'<br>
+	Mm, keep goin', keep goin'<br>
+	Mm, keep goin', keep goin'<br>
+	Mm, go, go<br>
+	Mm, keep goin', keep goin'<br>
+	Mm, go<br>
+	I guess I'm spinnin', double cup, I'm leanin'<br>
+	(So good, so good, taste it, talk to me)<br>
+	Guess I'm spinnin', double cup, I'm leanin'<br>
+	Need you to lean in (lean)<br>
+	</p>
+	<p style="font-size:15px; margin-left:50px;">She wanna come this way, uh (come on)<br>
+	Heat it up, microwave (heat it up)<br>
+	Heat it up, mic—, what, what?<br>
+	She wanna ride my wave<br>
+	She wanna come this way (she wanna—)<br>
+	She wanna—, uh (she wanna—), she wanna—<br>
+	She wanna—, notice how you're feelin' tonight<br>
+	(Ah, yeah-yeah, so tight, baby, sure, tonight)<br>
+	Oh, it's how you're feelin' tonight<br>
+	I guess I'm too demanding, I guess I'll keep my candy<br>
+	(I tried to tell you, but you know the demons crying)<br>
+	Just touched down in Miami (in Miami)<br>
+	I guess I'll keep my candy, I guess I'm too demanding<br>
+	She wanna ride my wave, she wanna ride my train<br>
+	Heat it up, microwave, come on, I'll show you my place (come on)<br>
+	She wanna ride my wave, she wanna ride my train<br>
+	Heat it up, microwave, come on, I'll show you my place<br>
+	</p>
+	<p style="font-size:15px; margin-left:50px;">I'm feelin' stuck (feelin' stuck)<br>
+	I'm off a bean (yeah), like, what the fuck? (what the fuck?)<br>
+	I'm in the tree (tree), she holler up (holler up)<br>
+	What you need? (what you need?) got it up (yeah)<br>
+	</p>
+</body>
+</html>
